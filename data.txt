@@ -1,0 +1,93 @@
+[PERTANIAN]
+Carrot = $5
+Corn = $5
+Cucumber = $5
+Garlic = $5
+Potato = $3
+Tomato = $5
+Watermelon = $5
+Cabbage = $5
+Onion = $5
+Wheat = $5
+Barley = $5
+Sugar Beet = $5
+Rice = $3
+Red Pepper = $5
+Strawberry = $5
+Orange = $5
+Lemon = $5
+
+[RONGSOKAN]
+Metal Scrap = $100
+Broken Phone = $150
+Empty Bottle = $4
+Empty Can = $2
+
+[TAMBANG]
+Copper = $19
+Iron = $26
+Silver Ingot = $46
+Gold Ingot = $58
+Glass = $31
+Emerald = $78
+Diamond = $31
+Ruby = $39
+Sapphire = $13
+Steel = $56
+Aluminum = $13
+Coal = $7
+
+[PERHIASAN]
+Emerald Ring = $444
+Ruby Ring = $351
+Sapphire Ring = $210
+Diamond Ring (Silver) = $195
+Emerald Ring (Silver) = $576
+Ruby Ring (Silver) = $339
+Sapphire Ring (Silver) = $132
+Ruby Necklace = $655
+Sapphire Necklace = $351
+Emerald Necklace = $467
+Diamond Necklace (Silver) = $312
+Ruby Necklace (Silver) = $640
+Sapphire Necklace (Silver) = $218
+Emerald Necklace (Silver) = $678
+Diamond Earring = $186
+Ruby Earring = $210
+Sapphire Earring = $141
+Emerald Earring = $326
+Diamond Earring (Silver) = $174
+Ruby Earring (Silver) = $198
+Sapphire Earring (Silver) = $129
+Emerald Earring (Silver) = $326
+
+[ALKOHOL]
+Red Wine = $45
+White Wine = $45
+Gin = $28
+Vodka = $28
+Whiskey = $38
+Cognag = $38
+Rum = $38
+Tonic = $28
+Carbonated Water = $28
+Sake = $28
+Soju = $28
+Arak = $38
+Tuak = $28
+
+[HUNTING]
+Skin Deer Low = $9
+Skin Deer Medium = $11
+Skin Deer Good = $15
+Skin Boar Low = $9
+Skin Boar Medium = $11
+Skin Boar Good = $15
+Skin Coyote Low = $20
+Coyote Medium = $24
+Skin Coyote Good = $28
+Skin Mtlion Low = $11
+Skin Mtlion Medium = $15
+Skin Mtlion Good = $18
+Raw Meat = $9
+Packaged Chicken = $7
