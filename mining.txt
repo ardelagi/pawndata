@@ -1,166 +1,140 @@
 === TAMBANG ===
 
-coal
+Coal
 - Require : -
-- Price   : 10
+- Price   : 7
 
-copper_ingot
-- Require : copper_ore x2
+Copper
+- Require : -
+- Price   : 19
+
+Iron
+- Require : -
 - Price   : 26
 
-iron_ingot
-- Require : iron_ore x2
-- Price   : 26
-
-gold_ingot
-- Require : gold_ore x2
+Gold Ingot
+- Require : -
 - Price   : 58
 
-silver_ingot
-- Require : silver_ore x2
-- Price   : 62
+Silver Ingot
+- Require : -
+- Price   : 46
 
-alluminium_ingot
-- Require : alluminium_ore x2
-- Price   : 18
+Aluminum
+- Require : -
+- Price   : 13
 
-steel_ingot
-- Require : coal x1, iron_ore x2
-- Price   : 75
+Steel
+- Require : Coal x1, Iron x2
+- Price   : 56
 
-sapphire
-- Require : uncut_sapphire x1
-- Price   : 18
-
-diamond
-- Require : uncut_diamond x1
+Glass
+- Require : -
 - Price   : 31
 
-ruby
-- Require : uncut_ruby x1
+Emerald
+- Require : -
+- Price   : 78
+
+Diamond
+- Require : -
+- Price   : 31
+
+Ruby
+- Require : -
 - Price   : 39
 
-emerald
-- Require : uncut_emerald x1
-- Price   : 104
+Sapphire
+- Require : -
+- Price   : 13
 
 
 === PERHIASAN ===
 
-gold_ring
-- Require : gold_ingot x1
-- Price   : 0
+Emerald Ring
+- Require : Gold Ingot x1, Emerald x4
+- Price   : 444
 
-silver_ring
-- Require : silver_ingot x1
-- Price   : 0
-
-emerald_ring
-- Require : gold_ring x1, emerald x4
-- Price   : 592
-
-ruby_ring
-- Require : gold_ring x1, ruby x4
+Ruby Ring
+- Require : Gold Ingot x1, Ruby x4
 - Price   : 351
 
-sapphire_ring
-- Require : gold_ring x1, sapphire x4
+Sapphire Ring
+- Require : Gold Ingot x1, Sapphire x4
 - Price   : 210
 
-diamond_ring_silver
-- Require : silver_ring x1, diamond x4
-- Price   : 292
+Diamond Ring (Silver)
+- Require : Silver Ingot x1, Diamond x4
+- Price   : 195
 
-emerald_ring_silver
-- Require : silver_ring x1, emerald x4
+Emerald Ring (Silver)
+- Require : Silver Ingot x1, Emerald x4
 - Price   : 576
 
-ruby_ring_silver
-- Require : silver_ring x1, ruby x4
+Ruby Ring (Silver)
+- Require : Silver Ingot x1, Ruby x4
 - Price   : 339
 
-sapphire_ring_silver
-- Require : silver_ring x1, sapphire x4
+Sapphire Ring (Silver)
+- Require : Silver Ingot x1, Sapphire x4
 - Price   : 132
 
-
-gold_earring
-- Require : gold_ingot x1
-- Price   : 0
-
-silver_earring
-- Require : silver_ingot x1
-- Price   : 0
-
-diamond_earring
-- Require : gold_earring x1, diamond x2
-- Price   : 186
-
-ruby_earring
-- Require : gold_earring x1, ruby x2
-- Price   : 210
-
-sapphire_earring
-- Require : gold_earring x1, sapphire x2
-- Price   : 188
-
-emerald_earring
-- Require : gold_earring x1, emerald x2
-- Price   : 326
-
-diamond_earring_silver
-- Require : silver_earring x1, diamond x2
-- Price   : 174
-
-ruby_earring_silver
-- Require : silver_earring x1, ruby x2
-- Price   : 198
-
-sapphire_earring_silver
-- Require : silver_earring x1, sapphire x2
-- Price   : 129
-
-emerald_earring_silver
-- Require : silver_earring x1, emerald x2
-- Price   : 326
-
-
-gold_chain
-- Require : gold_ingot x2
-- Price   : 0
-
-silver_chain
-- Require : silver_ingot x2
-- Price   : 0
-
-diamond_necklace
-- Require : gold_chain x1, diamond x6
-- Price   : 0
-
-ruby_necklace
-- Require : gold_chain x1, ruby x6
+Ruby Necklace
+- Require : Gold Ingot x2, Ruby x6
 - Price   : 655
 
-sapphire_necklace
-- Require : gold_chain x1, sapphire x6
+Sapphire Necklace
+- Require : Gold Ingot x2, Sapphire x6
 - Price   : 351
 
-emerald_necklace
-- Require : gold_chain x1, emerald x6
+Emerald Necklace
+- Require : Gold Ingot x2, Emerald x6
 - Price   : 467
 
-diamond_necklace_silver
-- Require : silver_chain x1, diamond x6
-- Price   : 468
+Diamond Necklace (Silver)
+- Require : Silver Ingot x2, Diamond x6
+- Price   : 312
 
-ruby_necklace_silver
-- Require : silver_chain x1, ruby x6
+Ruby Necklace (Silver)
+- Require : Silver Ingot x2, Ruby x6
 - Price   : 640
 
-emerald_necklace_silver
-- Require : silver_chain x1, emerald x6
+Sapphire Necklace (Silver)
+- Require : Silver Ingot x2, Sapphire x6
+- Price   : 218
+
+Emerald Necklace (Silver)
+- Require : Silver Ingot x2, Emerald x6
 - Price   : 678
 
-sapphire_necklace_silver
-- Require : silver_chain x1, sapphire x6
-- Price   : 327
+Diamond Earring
+- Require : Gold Ingot x1, Diamond x2
+- Price   : 186
+
+Ruby Earring
+- Require : Gold Ingot x1, Ruby x2
+- Price   : 210
+
+Sapphire Earring
+- Require : Gold Ingot x1, Sapphire x2
+- Price   : 141
+
+Emerald Earring
+- Require : Gold Ingot x1, Emerald x2
+- Price   : 326
+
+Diamond Earring (Silver)
+- Require : Silver Ingot x1, Diamond x2
+- Price   : 174
+
+Ruby Earring (Silver)
+- Require : Silver Ingot x1, Ruby x2
+- Price   : 198
+
+Sapphire Earring (Silver)
+- Require : Silver Ingot x1, Sapphire x2
+- Price   : 129
+
+Emerald Earring (Silver)
+- Require : Silver Ingot x1, Emerald x2
+- Price   : 326
