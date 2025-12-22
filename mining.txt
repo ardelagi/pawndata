@@ -1,0 +1,166 @@
+=== TAMBANG ===
+
+coal
+- Require : -
+- Price   : 10
+
+copper_ingot
+- Require : copper_ore x2
+- Price   : 26
+
+iron_ingot
+- Require : iron_ore x2
+- Price   : 26
+
+gold_ingot
+- Require : gold_ore x2
+- Price   : 58
+
+silver_ingot
+- Require : silver_ore x2
+- Price   : 62
+
+alluminium_ingot
+- Require : alluminium_ore x2
+- Price   : 18
+
+steel_ingot
+- Require : coal x1, iron_ore x2
+- Price   : 75
+
+sapphire
+- Require : uncut_sapphire x1
+- Price   : 18
+
+diamond
+- Require : uncut_diamond x1
+- Price   : 31
+
+ruby
+- Require : uncut_ruby x1
+- Price   : 39
+
+emerald
+- Require : uncut_emerald x1
+- Price   : 104
+
+
+=== PERHIASAN ===
+
+gold_ring
+- Require : gold_ingot x1
+- Price   : 0
+
+silver_ring
+- Require : silver_ingot x1
+- Price   : 0
+
+emerald_ring
+- Require : gold_ring x1, emerald x4
+- Price   : 592
+
+ruby_ring
+- Require : gold_ring x1, ruby x4
+- Price   : 351
+
+sapphire_ring
+- Require : gold_ring x1, sapphire x4
+- Price   : 210
+
+diamond_ring_silver
+- Require : silver_ring x1, diamond x4
+- Price   : 292
+
+emerald_ring_silver
+- Require : silver_ring x1, emerald x4
+- Price   : 576
+
+ruby_ring_silver
+- Require : silver_ring x1, ruby x4
+- Price   : 339
+
+sapphire_ring_silver
+- Require : silver_ring x1, sapphire x4
+- Price   : 132
+
+
+gold_earring
+- Require : gold_ingot x1
+- Price   : 0
+
+silver_earring
+- Require : silver_ingot x1
+- Price   : 0
+
+diamond_earring
+- Require : gold_earring x1, diamond x2
+- Price   : 186
+
+ruby_earring
+- Require : gold_earring x1, ruby x2
+- Price   : 210
+
+sapphire_earring
+- Require : gold_earring x1, sapphire x2
+- Price   : 188
+
+emerald_earring
+- Require : gold_earring x1, emerald x2
+- Price   : 326
+
+diamond_earring_silver
+- Require : silver_earring x1, diamond x2
+- Price   : 174
+
+ruby_earring_silver
+- Require : silver_earring x1, ruby x2
+- Price   : 198
+
+sapphire_earring_silver
+- Require : silver_earring x1, sapphire x2
+- Price   : 129
+
+emerald_earring_silver
+- Require : silver_earring x1, emerald x2
+- Price   : 326
+
+
+gold_chain
+- Require : gold_ingot x2
+- Price   : 0
+
+silver_chain
+- Require : silver_ingot x2
+- Price   : 0
+
+diamond_necklace
+- Require : gold_chain x1, diamond x6
+- Price   : 0
+
+ruby_necklace
+- Require : gold_chain x1, ruby x6
+- Price   : 655
+
+sapphire_necklace
+- Require : gold_chain x1, sapphire x6
+- Price   : 351
+
+emerald_necklace
+- Require : gold_chain x1, emerald x6
+- Price   : 467
+
+diamond_necklace_silver
+- Require : silver_chain x1, diamond x6
+- Price   : 468
+
+ruby_necklace_silver
+- Require : silver_chain x1, ruby x6
+- Price   : 640
+
+emerald_necklace_silver
+- Require : silver_chain x1, emerald x6
+- Price   : 678
+
+sapphire_necklace_silver
+- Require : silver_chain x1, sapphire x6
+- Price   : 327
