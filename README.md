@@ -63,25 +63,37 @@ Items obtained from hunting wild animals.
 
 ```
 pawndata/
-├── data.txt           # Complete list of all items and prices
+├── harga_beli.txt     # Buying prices for all pawnshop items
+├── harga_jual.txt     # Selling prices for all pawnshop items
 ├── mining.json        # Crafting details for jewelry and mining materials
 └── README.md          # This documentation
 ```
 
-### Format: `data.txt`
+### Format: `harga_beli.txt` & `harga_jual.txt`
 
-Simple category-based format for pawnshop prices:
+Simple category-based format for pawnshop prices (buying and selling):
 
 ```
 [CATEGORY_NAME]
 Item Name = $Price
 ```
 
-**Example:**
+**Example (harga_beli.txt):**
 ```
 [PERTANIAN]
 Carrot = $5
 Potato = $3
+
+[TAMBANG]
+Gold Ingot = $58
+Diamond = $31
+```
+
+**Example (harga_jual.txt):**
+```
+[PERTANIAN]
+Carrot = $5
+Potato = $5
 
 [TAMBANG]
 Gold Ingot = $58

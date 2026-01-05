@@ -3,7 +3,7 @@ Carrot = $5
 Corn = $5
 Cucumber = $5
 Garlic = $5
-Potato = $3
+Potato = $5
 Tomato = $5
 Watermelon = $5
 Cabbage = $5
@@ -20,11 +20,11 @@ Lemon = $5
 [RONGSOKAN]
 Metal Scrap = $100
 Broken Phone = $150
-Empty Bottle = $4
-Empty Can = $2
+Empty Bottle = $2
+Empty Can = $0
 
 [TAMBANG]
-Copper = $19
+Copper = $26
 Iron = $26
 Silver Ingot = $46
 Gold Ingot = $58
@@ -32,9 +32,9 @@ Glass = $31
 Emerald = $78
 Diamond = $31
 Ruby = $39
-Sapphire = $13
-Steel = $56
-Aluminum = $13
+Sapphire = $15
+Steel = $75
+Aluminum = $18
 Coal = $7
 
 [PERHIASAN]
@@ -64,17 +64,17 @@ Emerald Earring (Silver) = $326
 [ALKOHOL]
 Red Wine = $45
 White Wine = $45
-Gin = $28
-Vodka = $28
+Gin = $38
+Vodka = $38
 Whiskey = $38
 Cognag = $38
 Rum = $38
-Tonic = $28
-Carbonated Water = $28
-Sake = $28
-Soju = $28
+Tonic = $38
+Carbonated Water = $38
+Sake = $38
+Soju = $38
 Arak = $38
-Tuak = $28
+Tuak = $38
 
 [HUNTING]
 Skin Deer Low = $9
@@ -84,7 +84,7 @@ Skin Boar Low = $9
 Skin Boar Medium = $11
 Skin Boar Good = $15
 Skin Coyote Low = $20
-Coyote Medium = $24
+Skin Coyote Medium = $24
 Skin Coyote Good = $28
 Skin Mtlion Low = $11
 Skin Mtlion Medium = $15
